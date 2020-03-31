@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">井字遊戲</string>
+    <string name="start_game">開始遊戲</string>
+    <string name="you_turn">這是你的回合</string>
+    <string name="Tie">打和！</string>
+    <string name="Won">你贏喇！</string>
+    <string name="AWon">Android 贏喇!</string>
+    <string name="ATurn">Android 的回合</string>
+    <string name="GoFirst">你先行</string>
+    <string name="AGoFirst">Android 先行!</string>
+    <string name="level1">初級</string>
+    <string name="level2">中級</string>
+    <string name="level3">高級</string>
+    <string name="exit">退出</string>
+    <string name="level1Info">與初級機器人對戰!</string>
+    <string name="level2Info">與中級機器人對戰!</string>
+    <string name="level3Info">與高級機器人對戰!</string>
+    <string name="HuamnText">人類贏:</string>
+    <string name="AndBotText">Android 贏:</string>
+</resources>
