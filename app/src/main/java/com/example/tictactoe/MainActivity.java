@@ -83,12 +83,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void applyRotation(float start, float end) {
-// Find the center of image
+        // Find the center of image
         final float centerX = imageView1.getWidth() / 2.0f;
         final float centerY = imageView1.getHeight() / 2.0f;
 
 
-// The animation listener is used to trigger the next animation
+        // The animation listener is used to trigger the next animation
         final FlipAnimation rotation =
                 new FlipAnimation(start, end, centerX, centerY);
         rotation.setDuration(500);
